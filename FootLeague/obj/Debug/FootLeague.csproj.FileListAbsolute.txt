@@ -1,0 +1,10 @@
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\bin\Debug\FootLeague.exe.config
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\bin\Debug\FootLeague.exe
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\bin\Debug\FootLeague.pdb
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\obj\Debug\FootLeague.csprojAssemblyReference.cache
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\obj\Debug\FootLeague.fm_loading.resources
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\obj\Debug\FootLeague.Properties.Resources.resources
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\obj\Debug\FootLeague.csproj.GenerateResource.cache
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\obj\Debug\FootLeague.exe
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\obj\Debug\FootLeague.pdb
+C:\Users\ijlon\Documents\FootLeague\FootLeague\FootLeague\obj\Debug\FootLeague.fm_profile.resources
