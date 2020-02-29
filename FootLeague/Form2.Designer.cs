@@ -83,7 +83,7 @@
             // 
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(62)))), ((int)(((byte)(170)))));
-            this.button5.Location = new System.Drawing.Point(240, 360);
+            this.button5.Location = new System.Drawing.Point(240, 359);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(60, 40);
             this.button5.TabIndex = 4;
